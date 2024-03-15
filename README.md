@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I build [issue-copliot](https://issue-copilot.vercel.app/) to help myself figure out some github repo issues
+- 📫 How to reach me: [X](https://twitter.com/steph_cooperk) 
 
 
 <!--
