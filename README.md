@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I build [issue-copliot](https://issue-copilot.vercel.app/) to help myself figure out some github repo issues
+
+
 <!--
 **CooperHash/CooperHash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
