@@ -7,11 +7,11 @@
 
 ### OSS
 - 🔭 I build [issue-copliot](https://issue-copilot.vercel.app/) to help myself figure out some github repo issues
-- pr https://github.com/labring/laf/pull/1302  (merge)
-- pr https://github.com/labring/laf/pull/1351 (merge)
-- pr https://github.com/ant-design/ant-design/pull/47579 (merge)
-- pr https://github.com/ant-design/ant-design/pull/47928
-- pr https://github.com/react-component/menu/pull/690
+- pr [labring/laf/pull/1302](https://github.com/labring/laf/pull/1302)  (merge)
+- pr [labring/laf/pull/1351](https://github.com/) (merge)
+- pr [ant-design/ant-design/pull/47579](https://github.com/ant-design/ant-design/pull/47579) (merge)
+- pr [ant-design/ant-design/pull/47928](https://github.com/ant-design/ant-design/pull/47928)
+- pr [react-component/menu/pull/690](https://github.com/react-component/menu/pull/690)
 
 
 📫 How to reach me: [X](https://twitter.com/steph_cooperk) 
