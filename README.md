@@ -1,7 +1,20 @@
 ### Hi there 👋
+- 2022.3-4  腾讯官方公益项目小程序前端开发
+- 2022.7-8 一嗨租车前端实习
+- 2023.6     安恒信息前端实习
+- 2023.9-10 [AdmitGPT](https://www.producthunt.com/products/admitgpt) chrome插件开发
+- base广州 正在寻找工作 可联系📮huang2001go@163.com
 
+### OSS
 - 🔭 I build [issue-copliot](https://issue-copilot.vercel.app/) to help myself figure out some github repo issues
-- 📫 How to reach me: [X](https://twitter.com/steph_cooperk) 
+- pr https://github.com/labring/laf/pull/1302  (merge)
+- pr https://github.com/labring/laf/pull/1351 (merge)
+- pr https://github.com/ant-design/ant-design/pull/47579 (merge)
+- pr https://github.com/ant-design/ant-design/pull/47928
+- pr https://github.com/react-component/menu/pull/690
+
+
+📫 How to reach me: [X](https://twitter.com/steph_cooperk) 
 
 
 <!--
