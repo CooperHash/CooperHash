@@ -13,6 +13,10 @@
 - pr [ant-design/ant-design/pull/47928](https://github.com/ant-design/ant-design/pull/47928)
 - pr [react-component/menu/pull/690](https://github.com/react-component/menu/pull/690)
 
+### BTW
+- avatar is handdraw by myself
+
+
 
 📫 How to reach me: [X](https://twitter.com/steph_cooperk) 
 
