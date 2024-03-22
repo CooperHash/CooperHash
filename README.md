@@ -10,7 +10,7 @@
 - pr [labring/laf/pull/1302](https://github.com/labring/laf/pull/1302)  (merge)
 - pr [labring/laf/pull/1351](https://github.com/) (merge)
 - pr [ant-design/ant-design/pull/47579](https://github.com/ant-design/ant-design/pull/47579) (merge)
-- pr [ant-design/ant-design/pull/47928](https://github.com/ant-design/ant-design/pull/47928)
+- pr [ant-design/ant-design/pull/47928](https://github.com/ant-design/ant-design/pull/47928) (merge)
 - pr [react-component/menu/pull/690](https://github.com/react-component/menu/pull/690)
 
 ### BTW
