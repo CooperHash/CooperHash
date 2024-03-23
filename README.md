@@ -9,7 +9,7 @@
 - 🔭 I build [issue-copliot](https://issue-copilot.vercel.app/) to help myself figure out some github repo issues
 - pr [labring/laf/pull/1302](https://github.com/labring/laf/pull/1302)  (merge)
 - pr [labring/laf/pull/1351](https://github.com/) (merge)
-- pr [pull/47579](https://github.com/ant-design/ant-design/pull/47579) (merge)
+- pr [ant-design/pull/47579](https://github.com/ant-design/ant-design/pull/47579) (merge)
 - pr [ant-design/pull/47928](https://github.com/ant-design/ant-design/pull/47928) (merge)
 - pr [ant-design/pull/47990](https://github.com/ant-design/ant-design/pull/47990)
 - pr [ant-design/issues/48036](https://github.com/ant-design/ant-design/issues/48036)
