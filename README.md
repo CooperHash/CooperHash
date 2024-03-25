@@ -1,7 +1,7 @@
 ### Coder Experience
 - 2022.3-4  腾讯官方公益项目小程序前端开发
 - 2022.7-8 上海某租车公司前端实习
-- 2023.6     杭州某安全公司前端实习
+- 2023.6-x  杭州某安全公司前端实习
 - 2023.9-10 [AdmitGPT](https://www.producthunt.com/products/admitgpt) chrome插件开发
 - base广州 正在寻找工作 可联系📮huang2001go@163.com
 
