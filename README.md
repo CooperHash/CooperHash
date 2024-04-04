@@ -8,21 +8,26 @@
 ### OSS
 - 🔭 I build [issue-copliot](https://issue-copilot.vercel.app/) to help myself figure out some github repo issues
 
-> Laf
+#### Laf
 - pr [labring/laf/pull/1302](https://github.com/labring/laf/pull/1302)  (merge)
 - pr [labring/laf/pull/1351](https://github.com/) (merge)
 
-> Ant Design
-- pr [ant-design/pull/47579](https://github.com/ant-design/ant-design/pull/47579) (merge)
-- pr [ant-design/pull/47928](https://github.com/ant-design/ant-design/pull/47928) (merge)
-- pr [ant-design/pull/47990](https://github.com/ant-design/ant-design/pull/47990)
-- pr [ant-design/pull/48012](https://github.com/ant-design/ant-design/pull/48012) (merge)
-- pr [ant-design/pull/48035](https://github.com/ant-design/ant-design/pull/48035)
-- pr [ant-design/pull/48051](https://github.com/ant-design/ant-design/pull/48051)
-- pr [ant-design/pull/48055](https://github.com/ant-design/ant-design/pull/48055) (merge)
-- pr [ant-design/pull/48091](https://github.com/ant-design/ant-design/pull/48091)
-- pr [react-component/menu/pull/690](https://github.com/react-component/menu/pull/690)
-- pr [react-component/tabs/pull/706](https://github.com/react-component/tabs/pull/706)
+#### Ant Design
+> merge
+
+<ul><li><a target="_new" href="https://github.com/ant-design/ant-design/pull/47579">47579</a>: <strong>docs:</strong> update Next.js docs by CooperHash was merged on Feb 25</li><li><a target="_new" href="https://github.com/ant-design/ant-design/pull/47928">47928</a>: <strong>feat:</strong> Popover can be closed by ESC when trigger is focus or click by CooperHash was merged 2 weeks ago</li><li><a target="_new" href="https://github.com/ant-design/ant-design/pull/48012">48012</a>: <strong>docs:</strong> text optimize by CooperHash was merged 2 weeks ago</li><li><a target="_new" href="https://github.com/ant-design/ant-design/pull/48055">48055</a>: <strong>docs:</strong> Add FAQ to popconfirm by CooperHash was merged 2 weeks ago</li><li><a target="_new" href="https://github.com/ant-design/ant-design/pull/48091">48091</a>: <strong>fix:</strong> Upload remove margin using flex display by CooperHash was merged last week</li><li><a target="_new" href="https://github.com/ant-design/ant-design/pull/48266">48266</a>: <strong>docs:</strong> Translate the untranslated Chinese in an English document by CooperHash was merged 5 hours ago</li></ul>
+
+> open
+
+<ul><li><a target="_new" href="https://github.com/ant-design/ant-design/pull/48035">48035</a>: <strong>feat:</strong> Mentions support deleting an entire item with a single delete key press opened 2 weeks ago by CooperHash</li><li><a target="_new" href="https://github.com/ant-design/ant-design/pull/48051">48051</a>: <strong>fix:</strong> Select multiple config token don't work opened 2 weeks ago by CooperHash</li><li><a target="_new" href="https://github.com/ant-design/ant-design/pull/48169">48169</a>: <strong>feat:</strong> Add styles props to support Badge wrapper style opened last week by CooperHash</li><li><a target="_new" href="https://github.com/ant-design/ant-design/pull/48268">48268</a>: <strong>demo:</strong> Upload demo add margin opened 5 hours ago by CooperHash</li></ul>
+
+#### React-Component
+> open
+
+<ul><li><a target="_new" href="https://github.com/react-component/tabs/pull/706">706</a>: <strong>feat:</strong> add overflow trigger props opened last week by CooperHash</li></ul>
+
+<ul><li><a target="_new" href="https://github.com/react-component/menu/pull/690">690</a>: <strong>fix:</strong> submenu overflow popupoffset opened 3 weeks ago by CooperHash</li></ul>
+
 
 ### BTW
 - avatar is handdraw by myself
