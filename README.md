@@ -32,10 +32,6 @@
 - avatar is handdraw by myself
 
 
-
-📫 How to reach me: [X](https://twitter.com/steph_cooperk) 
-
-
 <!--
 **CooperHash/CooperHash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
