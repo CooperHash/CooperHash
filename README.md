@@ -27,6 +27,8 @@
 
 <ul><li><a target="_new" href="https://github.com/react-component/menu/pull/690">690</a>: <strong>fix:</strong> submenu overflow popupoffset</li></ul>
 
+<ul><li><a target="_new" href="https://github.com/react-component/table/pull/1105">1105</a>: <strong>feat:</strong> support lazy expand</li></ul>
+
 
 ### BTW
 - avatar is handdraw by myself
